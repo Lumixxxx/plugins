@@ -1,7 +1,7 @@
 {
-  "displayname": "SCPSL Example",
-  "description": "Test example",
-  "authorName": "Killers0992",
+  "displayname": "SL",
+  "description": "SCPSL",
+  "authorName": "Lumix",
   "buildType": 3,
   "version": "1.0.0",
   "scpslVersion": "13.4.2",
