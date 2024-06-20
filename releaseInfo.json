@@ -1,0 +1,11 @@
+{
+  "displayname": "SCPSL Example",
+  "description": "Test example",
+  "authorName": "Killers0992",
+  "buildType": 3,
+  "version": "1.0.0",
+  "scpslVersion": "13.4.2",
+  "loaderType": "nwapi",
+  "gameAssemblyReferences": "Mirror.dll,Pooling.dll,Assembly-CSharp.dll,CommandSystem.Core.dll,PluginAPI.dll,UnityEngine.CoreModule.dll",
+  "publicizeAssemblies": "Assembly-CSharp.dll"
+}
